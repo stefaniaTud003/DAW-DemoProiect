@@ -1,0 +1,15 @@
+.task-columns {
+    display: flex;
+  }
+  
+  .task-column {
+    flex: 1;
+    margin: 10px;
+    fill: white;
+  }
+  .task-item {
+    border: 1px solid #ccc;
+    border-radius: 0.25rem;
+    padding: 1rem;
+    margin-bottom: 0.5rem;
+}
